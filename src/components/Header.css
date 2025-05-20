@@ -1,0 +1,25 @@
+.con {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  background-color: #333;
+}
+
+.con li {
+  margin: 0;
+  padding: 0;
+}
+
+.con li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.con li a:hover {
+  background-color: #575757;
+  color: white;
+}
